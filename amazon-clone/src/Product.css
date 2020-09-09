@@ -11,7 +11,7 @@
     background-color: #FFFFFF;
     z-index: 1;
     border-radius: 8px;
-    box-shadow: 10px 10px 29px -5px rgba(0,0,0,0.44);
+    box-shadow: 10px 10px 29px -5px rgba(0,0,0,0.44); 
 }
 
 .product > img {
@@ -33,7 +33,6 @@
 
 .product__rating {
     display: flex;
-    flex-direction: row;
 }
 
 .product > button {
